@@ -20,7 +20,7 @@ header nav {
 }
 header nav ul li{
 display: inline;
-margin 0 30px;
+margin: 0 30px;
 padding: 20px;
 font-weight:lighter;
 font-size:22px;
@@ -81,10 +81,6 @@ label {
     font-size:40px;
     margin:0;
 }
-#heroform p {
-    
-
-}
 section {
     padding:60px;
 }
@@ -104,3 +100,23 @@ section {
 button {
     background-color:rgba(165, 44, 247, 0.534);
 }
+.intro {
+    text-align:center;
+    color:rgb(0, 183, 255);
+}
+.intro h2 {
+font-size:55px;
+display:inline-block;
+margin-bottom:35px;
+padding: 0px 100px 20px 100px;
+border-bottom: 3px solid;
+border-color:#fce138;
+}
+.intro p{
+    line-height:1.7;
+    width:80%;
+    font-size: 20px;
+    color:#39a6b2;
+    margin:0 auto;
+}
+
