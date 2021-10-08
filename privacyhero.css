@@ -1,0 +1,37 @@
+#hero {
+    height:200px;
+    background-color: black;
+    color: red;
+
+}
+#hero h1 {
+    text-align:center;
+    color:yellow;
+    font-size:50px;
+    line-height:100px;
+    border-bottom: 5px solid yellow;
+    margin:auto 200px auto 200px;
+    font-style:italic;
+    font-weight:normal;
+}
+.secondary-content {
+    width:80%;
+    margin:50px 100px auto 100px;
+    text-align:justify;
+    color:#024e76;
+}
+p {
+    margin:20px;
+    font-size:16px;
+    line-height:1.5;
+}
+.secondary-content h3 {
+    font-size:25px;
+}
+.secondary-content ul {
+    margin: 15px 20px;
+}
+.secondary-content li {
+    color:#39a6b2;
+    margin: 10px 0px;
+}
